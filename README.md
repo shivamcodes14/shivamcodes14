@@ -1,14 +1,14 @@
 # 💫 Hi 👋, I'm Shivam Kumar Singh
 **A passionate Data Science student exploring data || machine learning || software development**
 
-Email Me 👉 ✉️ **shivamsinghchauhan967@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **shivamkumarsinghrtx@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Data Science and Machine Learning projects
 - 🌱 **I’m currently learning:** Machine Learning, Data Analysis, Python Libraries (Pandas, NumPy, Matplotlib)
 - 👯 **I’m looking to collaborate on:** Open-source Data Science and AI projects
 - 🤔 **I’m looking for help with:** dvanced Machine Learning and Real-world Data Science applications
 - 💬 **Ask me about:** Python, SQL, Data Analysis, and Programming
-- 📫 **How to reach me:** shivamsinghchauhan967@gmail.com
+- 📫 **How to reach me:** shivamkumarsinghrtx@gmail.com
 - 😄 **Pronouns:** Legend
 - ⚡ **Fun fact:** I enjoy turning raw data into meaningful insights and solutions.
 
